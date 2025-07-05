@@ -1,5 +1,5 @@
-# Power BI Basic Report Project
-_____
+# Power BI Basic Report Project  
+
 **Disclaimer**
 This project is inspired by [Mo Chen](https://www.youtube.com/@mo-chen) Youtube Channel. And doesn't contain real-world data, just an open data for practice.
 _____
